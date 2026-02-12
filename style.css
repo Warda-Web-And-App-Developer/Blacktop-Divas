@@ -1,0 +1,160 @@
+.name{
+    position: relative;
+    right: 300px;
+    bottom: 60px;
+    font-family: "Protest Revolution", sans-serif;
+    color: rgb(207, 5, 5);
+    font-size: 40px;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 50px;
+}
+.diva{
+    font-family: "Babylonica", cursive;
+    position: relative;
+    top: -3px;
+    left: -20px;
+    font-size: 60px;
+}
+.nav{
+    height:90px;
+}
+.lamb{
+    width: 700px;
+    position: relative;
+    bottom: 50px;
+    
+    
+}
+.para{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(153, 3, 3);
+
+}
+.btn{
+    width: 120px;
+    height: 45px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 5000px;
+    
+}
+.btn1{
+    width: 140px;
+    border-radius: 30px;
+    height: 50px;
+    box-shadow: 0px 5px 30px rgb(168, 4, 4);
+}
+.btn2{
+    border-radius: 40px;
+    border: 1px solid rgb(126, 125, 125);
+}
+.btn2:hover{
+    color: black;
+    font-weight: 600;
+    background-color: white;
+}
+.btn1:hover{
+    color: rgb(153, 3, 3);
+    border: 1px solid rgb(153, 3, 3);
+    background-color: black;
+    font-weight: 400;
+}
+.sec{
+    position: relative;
+    top: -150px;
+   
+}
+.data{
+ border: 1px solid rgb(49, 49, 49);
+ border-radius: 20px;
+}
+.btn3{
+    border-radius: 20px;
+}
+.container{
+    position: relative;
+    bottom: -15px;
+}
+.img{
+    width: 650px;
+}
+.base{
+    position: relative;
+    top: -400px;
+}
+.line{
+    position: relative;
+    bottom: 400px;
+}
+.line2{
+    position: relative;
+    bottom: 400px;
+}
+.line3{
+    position: relative;
+    top: 5px;
+}
+.sec2{
+    position: relative;
+    top: -200px;
+}
+.sec3{
+     position: relative;
+    top: -200px;
+}
+.btn4{
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px rgb(190, 34, 34);
+}
+.img1:hover{
+    width: 1000px;
+    
+    transition: all 4s;
+}
+.card:hover{
+    position: relative;
+    top: -10px;
+    transition: position 4s;
+   
+
+}
+.inscard:hover{
+     border: 2px solid red;
+     transition: all 1s;
+}
+.car:hover{
+    position: relative;
+    top: -10px;
+    border: 2px solid red;
+    transition: position  9s;
+    scale: calc(car);
+}
+.img:hover{
+    width: 700px;
+    transition: width 1s;
+    
+   
+}
+.btn4:hover{
+    position: relative;
+    top: -5px;
+    border: 2px solid red;
+    background-color: black;
+    color: red;
+
+}
+.img1{
+    position: relative; 
+    left: 70px;
+    
+}
+.pin{
+    font-family: "Protest Revolution", sans-serif;
+    color: rgb(207, 5, 5);
+    font-size: 40px;
+}
