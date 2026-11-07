@@ -1,137 +1,65 @@
-
 body{
-    over-flow-x:hidden;
+    background-color: rgb(0, 0, 0);
 }
-
 .name{
     position: relative;
-    right: 300px;
+    right: 100px;
     bottom: 60px;
     font-family: "Protest Revolution", sans-serif;
     color: rgb(207, 5, 5);
     font-size: 40px;
 }
-.logo{
+ .logo{
     width: 200px;
     height: 200px;
     position: relative;
     bottom: 50px;
-}
+} 
 .diva{
     font-family: "Babylonica", cursive;
-    position: relative;
-    top: -3px;
-    left: -20px;
     font-size: 60px;
 }
 .nav{
     height:90px;
 }
-.lamb{
-    width: 700px;
+ .bmw{
     position: relative;
-    bottom: 50px;
-    
-    
+    top: -80px; 
+    filter: drop-shadow(-6px 13px 15px rgb(166, 2, 2));
 }
-.para{
-    font-size: 20px;
-    font-weight: bold;
-    color: rgb(153, 3, 3);
-
+.btn-e{
+    border-radius: 30px;
+    border: 1px solid white;
+    color: rgb(255, 255, 255);
+    background-color: rgb(40, 38, 38);
+}
+.btn-e:hover{
+    color: rgb(59, 59, 59);
+    background-color: white;
+    border-color: rgb(40, 38, 38);
 }
 .btn{
-    width: 120px;
-    height: 45px;
     border-radius: 30px;
-    position: relative;
-    bottom: 5000px;
-    
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgb(183, 2, 2);
+    box-shadow: -0px 2px 6px rgba(207, 5, 5, 0.858);
 }
-.btn1{
-    width: 140px;
-    border-radius: 30px;
-    height: 50px;
-    box-shadow: 0px 5px 30px rgb(168, 4, 4);
+.btn:hover{
+    color: rgb(166, 2, 2);
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(183, 2, 2);
+    font-weight: bold;
 }
-.btn2{
-    border-radius: 40px;
-    border: 1px solid rgb(126, 125, 125);
-}
-.btn2:hover{
-    color: black;
-    font-weight: 600;
-    background-color: white;
-}
-.btn1:hover{
-    color: rgb(153, 3, 3);
-    border: 1px solid rgb(153, 3, 3);
-    background-color: black;
-    font-weight: 400;
-}
-.sec{
-    position: relative;
-    top: -150px;
-   
-}
-.data{
- border: 1px solid rgb(49, 49, 49);
- border-radius: 20px;
-}
+
 .btn3{
     border-radius: 20px;
 }
-.container{
-    position: relative;
-    bottom: -15px;
-}
-.img{
-    width: 650px;
-}
-.base{
-    position: relative;
-    top: -400px;
-}
-.line{
-    position: relative;
-    bottom: 400px;
-}
-.line2{
-    position: relative;
-    bottom: 400px;
-}
-.line3{
-    position: relative;
-    top: 5px;
-}
-.sec2{
-    position: relative;
-    top: -200px;
-}
 .sec3{
      position: relative;
-    top: -200px;
+    top: -50px;
 }
-.btn4{
-    border-radius: 20px;
-    box-shadow: 5px 5px 30px rgb(190, 34, 34);
-}
-.img1:hover{
-    width: 1000px;
-    
-    transition: all 4s;
-}
-.card:hover{
-    position: relative;
-    top: -10px;
-    transition: position 4s;
-   
 
-}
-.inscard:hover{
-     border: 2px solid red;
-     transition: all 1s;
-}
 .car:hover{
     position: relative;
     top: -10px;
@@ -139,28 +67,31 @@ body{
     transition: position  9s;
     scale: calc(car);
 }
-.img:hover{
-    width: 700px;
-    transition: width 1s;
-    
-   
+.sec{
+    border: 1px solid rgb(88, 88, 88);
+    border-radius: 10px;
 }
-.btn4:hover{
+.name-b{
     position: relative;
-    top: -5px;
-    border: 2px solid red;
-    background-color: black;
-    color: red;
-
-}
-.img1{
-    position: relative; 
-    left: 70px;
-    
-}
-.pin{
+    right: 80px;
+    bottom: 60px;
     font-family: "Protest Revolution", sans-serif;
-    color: rgb(207, 5, 5);
-    font-size: 40px;
+    color: #cf0505;
+    font-size: 30px;
 }
-
+ .logo-b{
+    width: 180px;
+    height: 150px;
+    position: relative;
+    bottom: 50px; 
+} 
+.diva-b{
+    font-family: "Babylonica", cursive;
+     position: relative;
+    left: -10px; 
+    font-size: 50px;  
+}
+.para{
+    position: relative;
+    bottom: 100px;
+}
